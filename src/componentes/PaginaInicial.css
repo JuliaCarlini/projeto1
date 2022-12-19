@@ -1,6 +1,8 @@
-
-
 section{
     align-items: center;
-    margin: 20px 50px 20px 70px;
+    margin: 1.25rem 3.2rem 1.25rem 4.3rem;
+}
+
+.p-pi{
+    font-size: 1.8rem;
 }

@@ -1,0 +1,25 @@
+.div-portifolio{
+    background-color: white;
+    padding-bottom: 3.2rem;
+
+}
+.titulo-ptf{
+    color: black;
+}
+.img-ptf{
+    height: 12rem;
+    margin: 1.2rem 1.2rem 0; 
+}
+.div-ptf{
+    background-color:rgb(220, 224, 228);
+    display: inline-flex;
+    flex-direction: column;
+    margin: 0.6rem;
+}
+
+.a-ptf{
+    color: black;
+}
+
+
+

@@ -1,0 +1,37 @@
+
+.section-2{
+    background-color: rgb(1, 1, 40);
+    margin: 0;
+}
+.conts{
+    text-align: center;
+}
+
+span{
+    display:inline-flex;
+    flex-direction: column;
+}
+
+.telefone{
+    text-align: center;
+    margin: 10px 3.2rem 0 0;
+}
+.email{
+    height: 20%;
+    text-align: center;
+    margin-right: 3.2rem;
+}
+.insta{
+    height: 20%;
+    text-align: center;
+    margin-right: 3.2rem;
+}
+.whats{
+    height: 20%;
+    text-align: center;
+    margin-right: 3.2rem;
+}
+.face{
+    height: 20%;
+    text-align: center;
+}

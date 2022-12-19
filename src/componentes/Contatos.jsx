@@ -1,34 +1,33 @@
-import Cabecario from "./Cabecario"
-
+import './Contatos.css'
 function Contatos(){
     return(
-        <div>
-            <h1>Contate-nos</h1>
+        <div id='contato' className='section-2'>
+            <h1 className='conts'>Contate-nos</h1>
 
-            <section>
+            <section >
                 
-                <span>
-                    <img src="" alt="Telefone" />
-                    <p>+351 (91) 375-2313</p>
+                <span className='telefone'>
+                    <i class="fa-solid fa-phone" alt="Telefone" />
+                    <p>+351 (00) 000-0000</p>
                 </span>
 
-                <span>
-                    <img src="" alt="E-mail" />
+                <span className='email'>
+                    <i class="fa-solid fa-envelope" alt="E-mail" />
                     <p>julia.dornelas@outlook.com</p>
                 </span>
                 
-                <span>
-                    <img src="" alt="Instagram" />
+                <span className='insta'>
+                    <i class="fa-brands fa-instagram" alt="Instagram" />
                     <p>@julia_carlini0</p>
                 </span>
 
-                <span>
-                    <img src="" alt="WhatsApp" />
-                    <p>+351 (91) 375-2313</p>
+                <span className='whats'>
+                    <i class="fa-brands fa-whatsapp" alt="WhatsApp" />
+                    <p>+351 (00) 000-0000</p>
                 </span>
 
-                <span>
-                    <img src="" alt="Facebook" />
+                <span className='face'>
+                    <i class="fa-brands fa-facebook" alt="Facebook" />
                     <p>Julia Dornelas</p>
                 </span>
 
